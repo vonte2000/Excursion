@@ -1,23 +1,31 @@
 body {
     background-color: black;
-}
-header {
     text-align: center;
+    font-family: Verdana;;
 }
+
 a {
     color:aquamarine;
     font: 16px;
     
 }
 h1 {
-    font-family: Verdana;
     font-weight: normal;
     color: white;
-    text-align: center;
+    
 }
 h1 #first {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     text-align: center;
+}
+h1 #second {
+    font-weight: 300;
+    font-size: 42px;
+}
+img {
+    padding: 5px;
+}
+p {
+    color: grey;
 }
